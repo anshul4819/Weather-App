@@ -1,0 +1,1 @@
+I created this app using Flask and used SQAlchemy as the database.
